@@ -1,4 +1,5 @@
 import React from 'react'
+import './nav.css'
 
 const NavBar = () => {
   return (
@@ -7,7 +8,7 @@ const NavBar = () => {
             <h2 className='font-bold text-[45px]'>G3 Architects</h2>
         </div>
 
-        <div className='flex gap-25 text-[18px] text-[#424242] font-bold'>
+        <div id='navId' className='flex gap-25 text-[18px] text-[#424242] font-bold'>
             <p>Home</p>
             <p>About</p>
             <p>Contact Us</p>

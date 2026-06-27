@@ -1,0 +1,7 @@
+#navId p{
+    cursor: pointer;
+}
+
+#navId p:hover{
+    color: aquamarine;
+}
