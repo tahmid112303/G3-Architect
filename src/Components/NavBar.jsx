@@ -3,7 +3,7 @@ import './nav.css'
 
 const NavBar = () => {
   return (
-    <div className='flex justify-between items-center px-40 mt-15'>
+    <div className='flex justify-between items-center mt-15'>
         <div>
             <h2 className='font-bold text-[45px]'>G3 Architects</h2>
         </div>
